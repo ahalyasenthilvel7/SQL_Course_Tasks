@@ -20,7 +20,7 @@ This repository contains my SQL database assignments completed as part of my dat
 
 | Assignment | File |
 |------------|------|
-| Student Database | `Student_Career.sql` |
+| Student Database | `Student Database/Student_Career.sql` |
 | Employee Database | `Employee.sql` |
 | Movies Database | `movies_data.sql` |
 | Movies table analysis using joins| | `movies_table_using_inner_join.sql` |
